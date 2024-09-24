@@ -3,6 +3,7 @@
 *.pyc
 *.swp
 .env
+cache
 
 /.cargo_home/
 /.idea/
